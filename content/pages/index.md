@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Amares
-    subtitle: >-
-      Un viaje creativo. El arte de expresarse. La obsesión por seguir la luz.
-      El impulso del color.  La necesidad de rendirse ante la tinta.
+    subtitle: Un viaje creativo.
     styles:
       self:
         height: auto
