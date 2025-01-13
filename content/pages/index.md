@@ -15,9 +15,8 @@ sections:
     backgroundSize: full
     title: Amares
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Este es mi viaje hacia la cretaividad, guiado por el arte en sus distintas
+      formas, la necesidad de expresars
     styles:
       self:
         height: auto
