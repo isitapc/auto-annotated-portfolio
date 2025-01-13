@@ -15,8 +15,8 @@ sections:
     backgroundSize: full
     title: Amares
     subtitle: >-
-      Este es mi viaje hacia la cretaividad, guiado por el arte en sus distintas
-      formas. Impulso interior, el arte de exprsarte
+      Un viaje creativo. El arte de expresarse. La obsesión por seguir la luz.
+      El impulso del color.  La necesidad de rendirse ante la tinta.
     styles:
       self:
         height: auto
