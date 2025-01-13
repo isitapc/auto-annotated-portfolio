@@ -44,6 +44,14 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: |
+      El arte de expresarse. 
+
+      La obsesión por seguir la luz. 
+
+      El impulso del color.  
+
+      La necesidad de rendirse ante la tinta.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
