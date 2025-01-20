@@ -47,9 +47,13 @@ sections:
 
       Seguir la luz con obsesión. Amar las sombras.
 
+      La eterna búsqueda de ese espacio.
+
       El impulso del color. La textura.
 
       La necesidad de rendirse ante la tinta.
+
+      Huir de la inspiración. Seguirla infinitamente.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
