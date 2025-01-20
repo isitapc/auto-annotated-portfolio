@@ -43,11 +43,11 @@ sections:
     type: HeroSection
     actions: []
     text: |
-      El arte de expresarse. 
+      El arte de expresarse.
 
-      La obsesión por seguir la luz. 
+      Seguir la luz con obsesión. Amar las sombras.
 
-      El impulso del color.  
+      El impulso del color. La textura.
 
       La necesidad de rendirse ante la tinta.
   - colors: colors-f
